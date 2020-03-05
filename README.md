@@ -1,5 +1,6 @@
-# Progetto Reti Logiche
- Project for the course "Logical Networks" 
+# Logical Networks project
+Project for the course "Logical Networks".
+The assignment was to describe and synthesize, using VHDL, an FPGA used to solve the problem given in the assignment.
 
 ## Developers
 
